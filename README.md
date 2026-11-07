@@ -95,7 +95,7 @@ which analyses the bundled samples and prints the results.
 
 ---
 
-## How it works, in one picture
+## How it works
 
 ```
       pasted text / .eml file
@@ -123,7 +123,7 @@ which analyses the bundled samples and prints the results.
       Low / Medium / High + report     (warnmail/report.py, gui.py)
 ```
 
-The three modes — **rules only**, **model only**, **hybrid** — can be compared
+The three modes, **rules only**, **model only**, **hybrid**, can be compared
 with `python -m training.evaluate` (see
 [training/reports/evaluation.md](training/reports/evaluation.md)).
 
